@@ -17,7 +17,7 @@ It includes trend analysis, category-wise performance, and product-wise comparis
 ## 📸 Dashboard Overview
 
 ### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](/dashboard.png)
 
 ---
 
